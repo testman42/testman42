@@ -1,3 +1,11 @@
+
+<div align="center">
+
+**[Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/)**
+
+</div>
+
+
 <p align="center">
   <a href="https://gitlab.com/testman42"><img src="https://img.icons8.com/color/96/000000/gitlab.png" alt="gitlab"/></a>
   <a href="https://mstdn.social/@testman"><img src="https://img.icons8.com/windows/344/4a90e2/mastodon.png" width="100" height="100" alt="mastodon"/></a>
