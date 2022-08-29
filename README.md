@@ -1,7 +1,7 @@
 
 <div align="center">
 
-**[Give Up GitHub](https://sfconservancy.org/GiveUpGitHub/)**
+  <h1><a href="https://sfconservancy.org/GiveUpGitHub/">Give Up GitHub</a></h1>
 
 </div>
 
