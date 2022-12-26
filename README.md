@@ -2,8 +2,8 @@
 <div align="center">
 
  <h2><a href="https://sfconservancy.org/GiveUpGitHub/">Give Up GitHub</a>
-   
-(support <b><a href="https://forgefed.org/">ForgeFed</a></b> and <b><a href="https://forgefriends.org/blog/2021/11/22/what-is-forgefriends/">ForgeFriends</a></b> instead)
+ </br> </br>
+(support <b><a href="https://forgejo.org/">Forgejo</a></b>, <b><a href="https://forgefed.org/">ForgeFed</a></b> and <b><a href="https://forgefriends.org/blog/2021/11/22/what-is-forgefriends/">ForgeFriends</a></b> instead)
   </h2>
 
 </div>
