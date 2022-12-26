@@ -17,7 +17,7 @@
   <a href="https://steamcommunity.com/id/testman42/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
   <a href="https://diasp.org/people/9463a91db98a0ace"><img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/87_Diaspora_logo_logos-512.png" width="100" height="100" alt="diaspora"/></a>
   <a href="https://www.reddit.com/user/testus_maximus"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
-  <a href="mailto:spletni.janez@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="mailto:testman@kompot.si"><img src="https://www.seedtrustescrow.com/wp-content/uploads/2020/10/white-envelope-icon-images-466322.png"  width="100" height="100" alt="email"/></a>
   
 
 </p>
